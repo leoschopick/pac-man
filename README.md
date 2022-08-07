@@ -1,5 +1,7 @@
 # FPGA, but the P is Pac-Man
 
+A recreation of the 1980 arcade classic Pac-Man written in SystemVerilog and C.
+
 This was mine and Abigail Kokal's final project for [ECE 385 - Digital Systems Laboratory](https://ece.illinois.edu/academics/courses/ece385) at the University of Illinois Urbana-Champaign from Spring 2022. It was designed to run on a [Terasic DE10-Lite](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1021).
 
 ### Materials Needed
